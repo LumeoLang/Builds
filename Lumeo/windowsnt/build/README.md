@@ -1,3 +1,3 @@
-# LUMEO-BUILDS/windowsnt/build
+# BUILDS/Lumeo/windowsnt/build
 
 This folder contains Lumeo Windows builds
